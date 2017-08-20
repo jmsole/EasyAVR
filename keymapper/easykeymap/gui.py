@@ -79,7 +79,7 @@ for board in boards.__all__:
 SAVE_VERSION = 14
 
 #pixels for 1/4x key size
-UNIT = 12
+UNIT = 16
 
 MACRO_NUM = 14
 
